@@ -5,8 +5,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mportesdev">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mportesdev&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21"
-    alt="Michal's GitHub Stats" />
-</a>
+[![Michal's GitHub Stats][stats]](https://github.com/mportesdev)
+
+🌱 I’m currently learning [pandas], [Django]
+
+[stats]: https://github-readme-stats.vercel.app/api?username=mportesdev&show_icons=true
+[pandas]: https://pandas.pydata.org/
+[Django]: https://www.djangoproject.com/
